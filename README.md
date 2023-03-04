@@ -1,4 +1,4 @@
-# helloworldcounter
+# NoteIt
 
 A new Flutter project.
 
