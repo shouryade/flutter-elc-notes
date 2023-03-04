@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427150842737",
+    "project_id": "eznote-3005b",
+    "storage_bucket": "eznote-3005b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427150842737:android:196e171797c503c65a74d0",
+        "android_client_info": {
+          "package_name": "com.moisturebois.eznote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427150842737-s3oegso2ba5fp92taj6jkirq939708f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lQ_3oF-a-Mx6Av7mjZesskzB82pcKsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427150842737-s3oegso2ba5fp92taj6jkirq939708f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
