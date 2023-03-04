@@ -1,7 +1,7 @@
 # NoteIt
 
 A new Flutter project.  
-Asd
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
